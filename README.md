@@ -76,5 +76,6 @@ These insights support data-driven decision making for marketing teams.
 ---
 
 ## 👨‍💻 Author
+Monica
 
 Created as part of a data analytics portfolio to demonstrate skills in marketing analytics and Power BI dashboard development.
