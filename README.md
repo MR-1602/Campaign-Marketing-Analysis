@@ -42,7 +42,6 @@ The dashboard tracks important marketing KPIs including:
 - Customer Segmentation
 
 ---
----
 
 ## 💡 Key Insights
 
@@ -59,8 +58,9 @@ These insights support data-driven decision making for marketing teams.
 
 ## 📂 Project Files
 
-- `Marketing Campaign Analysis.pbix` – Power BI dashboard file
-- `README.md` – Project documentation
+## 📊 Dashboard Preview
+<img width="1277" height="721" alt="Screenshot " src="https://github.com/user-attachments/assets/82adf3f6-e8f5-4e9c-bd21-127817defb3f" />
+
 
 ---
 
